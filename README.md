@@ -29,7 +29,7 @@ make charles_meng68:default
 #define MATRIX_COL_PINS { B2, D0, D1, D2, F7, F6, F5, D4, D6, D7, B4, B5, B6, C6, C7 }
 ```
 
-![charles_meng68_matrix](https://imgur.com/NuNUX67)
+![charles_meng68_matrix](https://i.imgur.com/NuNUX67.png)
 
 ```
 /* This is a shortcut to help you visually see your layout.
