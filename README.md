@@ -19,5 +19,5 @@ make charles_meng68:default
 
 有2种进入Bootloader的方式：
 
-* **Bootmagic reset**:按住位于矩阵 (0,0) 处的按键 （通常是最左上方的按键或Esc）然后插上数据线，键盘将进入dfu模式，可以在qmk toolbox中看见设备连接提示
+* **Bootmagic reset**：按住位于矩阵 (0,0) 处的按键 （通常是最左上方的按键或Esc）然后插上数据线，键盘将进入dfu模式，可以在qmk toolbox中看见设备连接提示
 * **物理重置按键**：短接位于空格下的reset触点
