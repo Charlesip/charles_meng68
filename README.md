@@ -17,7 +17,7 @@ make charles_meng68:default
 
 ## Bootloader
 
-有2种进入Bootloader的方式（请注意，进入后将会清除EEPROM，请提前导出保存via配置）：
+有2种进入Bootloader的方式（请注意，进入后将会清除via配置，请提前导出保存）：
 
 * **Bootmagic reset**： 按住位于矩阵 (0,0) 处的按键 （通常是最左上方的按键或Esc）然后插上数据线
 * **物理重置按键**：短接位于空格下的reset触点
