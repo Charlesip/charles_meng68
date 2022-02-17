@@ -5,7 +5,7 @@
 meng68是运行[QMK固件](https://qmk.fm/)的开源键盘，支持VIA图形化界面修改键码
 
 - Keyboard Maintainer: [charles](https://github.com/charlesip)
-- Github主页：https://github.com/Charlesip/charles_meng68_4key
+- Github主页：https://github.com/Charlesip/charles_meng68
 
 键盘固件（[charles_meng68_via.hex](https://github.com/Charlesip/charles_meng68/blob/main/charles_meng68_via.hex)）已提供，需要键盘进入Bootloader模式，使用[QMK Toolbox](https://github.com/qmk/qmk_toolbox)刷入。
 
