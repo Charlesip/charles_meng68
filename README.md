@@ -2,6 +2,8 @@
 
 *A short description of the keyboard/project*
 
+![hand](https://imgur.com/igPhnIX)
+
 meng68是运行[QMK固件](https://qmk.fm/)的开源键盘，支持VIA图形化界面修改键码
 
 - Keyboard Maintainer: [charles](https://github.com/charlesip)
