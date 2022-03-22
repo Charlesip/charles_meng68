@@ -9,9 +9,9 @@ meng68是运行[QMK固件](https://qmk.fm/)的开源键盘，支持VIA图形化�
 - Keyboard Maintainer: [charles](https://github.com/charlesip)
 - Github主页：https://github.com/Charlesip/charles_meng68
 
-键盘固件（[charles_meng68_via.hex](https://github.com/Charlesip/charles_meng68/blob/main/charles_meng68_via.hex)）已提供，需要键盘进入Bootloader模式，使用[QMK Toolbox](https://github.com/qmk/qmk_toolbox)刷入。
-
 ![](https://i.imgur.com/o75WuLv.png?1)
+
+键盘固件（[charles_meng68_via.hex](https://github.com/Charlesip/charles_meng68/blob/main/charles_meng68_via.hex)）已提供，需要键盘进入Bootloader模式，使用[QMK Toolbox](https://github.com/qmk/qmk_toolbox)刷入。
 
 注意，键盘进入Bootloader之后，QMK Toolbox会提示如下字符（黄色），此时Flash按钮亮起，方可刷入：
 
