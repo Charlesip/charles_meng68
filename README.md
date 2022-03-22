@@ -2,7 +2,7 @@
 
 *A short description of the keyboard/project*
 
-![hand](https://i.imgur.com/RirAEds.png)
+![hand](https://i.imgur.com/fxpgaiX.png)
 
 meng68是运行[QMK固件](https://qmk.fm/)的开源键盘，支持VIA图形化界面修改键码
 
@@ -77,3 +77,8 @@ make charles_meng68:default
 }
 ```
 
+![](https://i.imgur.com/KQ2ZZ5e.png)
+
+![](https://i.imgur.com/igPhnIX.png)
+
+![](https://i.imgur.com/pgrDUMR.png)
