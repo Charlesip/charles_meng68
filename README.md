@@ -11,13 +11,17 @@ meng68是运行[QMK固件](https://qmk.fm/)的开源键盘，支持VIA图形化�
 
 键盘固件（[charles_meng68_via.hex](https://github.com/Charlesip/charles_meng68/blob/main/charles_meng68_via.hex)）已提供，需要键盘进入Bootloader模式，使用[QMK Toolbox](https://github.com/qmk/qmk_toolbox)刷入。
 
+![](https://i.imgur.com/o75WuLv.png?1)
+
 注意，键盘进入Bootloader之后，QMK Toolbox会提示如下字符（黄色），此时Flash按钮亮起，方可刷入：
 
 ```
 *** Atmel DFU device connected (libusb0): Atmel Corp. ATmega32U4 (03EB:2FF4:0000)
 ```
 
- 关于QMK Toolbox使用的一切问题请参考[官方文档](https://docs.qmk.fm/#/newbs_flashing)
+![](https://i.imgur.com/bd9jvhs.png) 
+
+关于QMK Toolbox使用的一切问题请参考[官方文档](https://docs.qmk.fm/#/newbs_flashing)
 
 ## Bootloader
 
